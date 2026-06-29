@@ -1,0 +1,71 @@
+{
+    "home": {
+        "base": 90,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "1": {
+        "base": 40,
+        "shoulder": 70,
+        "elbow": 120
+    },
+
+    "2": {
+        "base": 14,
+        "shoulder": 0,
+        "elbow": 33
+    },
+
+    "3": {
+        "base": 57,
+        "shoulder": 0,
+        "elbow": 33
+    },
+
+    "4": {
+        "base": 108,
+        "shoulder": 0,
+        "elbow": 33
+    },
+
+    "5": {
+        "base": 155,
+        "shoulder": 0,
+        "elbow": 23
+    },
+    "1_up": {
+        "base": 40,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "2_up": {
+        "base": 14,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "3_up": {
+        "base": 57,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "4_up": {
+        "base": 108,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "5_up": {
+        "base": 155,
+        "shoulder": 90,
+        "elbow": 90
+    },
+
+    "gripper": {
+        "open": 90,
+        "close": 20
+    }
+}
